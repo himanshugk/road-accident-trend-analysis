@@ -1,0 +1,6 @@
+year,accidents,fatalities,injuries,severity,yoy_accidents_pct,yoy_fatalities_pct,source,is_provisional,derivation_note,accidents_lakh,fatalities_lakh,accidents_per_day,deaths_per_day,calc_severity
+2021,412432,153972,384448,37.3,,,MoRTH Road Accidents in India 2021,False,MoRTH published historical record,4.12,1.54,1130.0,421.8,37.3
+2022,461312,168491,443366,36.5,11.9,9.4,MoRTH Road Accidents in India 2022,False,MoRTH published historical record,4.61,1.68,1263.9,461.6,36.5
+2023,480652,172900,463000,36.0,4.2,2.6,MoRTH Road Accidents in India 2023,False,MoRTH published historical record,4.81,1.73,1316.9,473.7,36.0
+2024,487714,177181,471441,36.3,1.5,2.5,MoRTH Lok Sabha reply 2026-07-30 (provisional),True,derived_from_yoy and published 2024 benchmarks,4.88,1.77,1336.2,485.4,36.3
+2025,513563,183382,,35.7,5.3,3.5,MoRTH Lok Sabha reply 2026-07-30 (provisional),True,Official Lok Sabha reply benchmark,5.14,1.83,1407.0,502.4,35.7
